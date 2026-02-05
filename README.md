@@ -11,7 +11,7 @@ A simple text-based Python game where a sheep moves inside a list and replaces g
 ## Technologies
 - Python
 - Lists
-- Loops & Conditions
+
 
 ## How to run
 `bash
